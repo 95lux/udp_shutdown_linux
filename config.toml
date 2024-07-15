@@ -1,0 +1,3 @@
+port = 2350
+shutdown_cmd = "shutdown"
+reboot_cmd = "reboot\n"
